@@ -1,7 +1,5 @@
 ## SCC Title Screen - An RPG Maker VX Ace Script
 
-Coming soon!
-
 ### About
 
 The purpose of this script is to create the animated title screen, which is used in the game "Stray Cat Crossing". All assets for the game including the title screen were created by Jurlo. This script is heavily based off of Moghunter's title screen script. Scripts for RPG Maker VX Ace are in Ruby (RGSS3).
@@ -12,7 +10,7 @@ Feel free to use and modify this script, and please credit me and Moghunter if y
 
 #### Viewing the script
 
-To view the script, look in scc-title-screen.rb located in this repository.
+To view the script, look in `scc-title-screen.rb` located in this repository.
 
 Alternatively, you can find the script inside the demo by opening the demo's scripts and scrolling down to `SCC Title Screen`.
 
